@@ -413,6 +413,8 @@ MonoBehaviour:
   - enemies:
     - enemyPrefab: {fileID: 7017994908183991090, guid: 0953ff0e018a9414588ba08c0bdd889d, type: 3}
       count: 20
+    - enemyPrefab: {fileID: 7017994908183991090, guid: 2f02e5bf266d4cf4fb1d9a08702cc284, type: 3}
+      count: 2
     spawnRate: 1
   - enemies:
     - enemyPrefab: {fileID: 7017994908183991090, guid: 0953ff0e018a9414588ba08c0bdd889d, type: 3}
