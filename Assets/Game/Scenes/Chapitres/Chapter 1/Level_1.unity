@@ -4540,15 +4540,15 @@ MonoBehaviour:
     - enemyPrefab: {fileID: 6780315478652686766, guid: 5ac40f914366d4cc28aa5ff227e4e011, type: 3}
       count: 10
     - enemyPrefab: {fileID: 6780315478652686766, guid: 032e03e5dcfe04465a42693c54e995d1, type: 3}
-      count: 3
+      count: 23
     spawnRate: 0.5
   - enemies:
     - enemyPrefab: {fileID: 6780315478652686766, guid: 5ac40f914366d4cc28aa5ff227e4e011, type: 3}
-      count: 15
+      count: 16
     - enemyPrefab: {fileID: 6780315478652686766, guid: 032e03e5dcfe04465a42693c54e995d1, type: 3}
-      count: 3
+      count: 19
     - enemyPrefab: {fileID: 6780315478652686766, guid: 8d545fd44f5e34db0b8f2f3a86dc973c, type: 3}
-      count: 20
+      count: 38
     spawnRate: 0.5
   spawnPoint: {fileID: 26150123}
   waveCountdownText: {fileID: 1801453818}
@@ -8004,8 +8004,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 5d659a14f2846434f8dc3b30daeb683c, type: 2}
-  m_Color: {r: 0.13207841, g: 1, b: 0, a: 1}
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0.016531648, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
