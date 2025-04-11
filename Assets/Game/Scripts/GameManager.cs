@@ -34,6 +34,11 @@ public class WaveSpawner : MonoBehaviour
     private int waveIndex = 0;          // Index de la vague actuelle
     private int enemiesAlive = 0;       // Nombre d'ennemis encore vivants
 
+    [Header("Next Level")]
+
+    public int LevelCompleted = 1;
+    public int NextLevelUnlock = 2;
+
     void Update()
     {
         // Si des ennemis sont encore vivants, on ne commence pas la prochaine vague

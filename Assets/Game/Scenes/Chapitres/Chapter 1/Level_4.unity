@@ -4554,6 +4554,8 @@ MonoBehaviour:
   waveCountdownText: {fileID: 1801453818}
   waveNumberText: {fileID: 2140554390}
   timeBetweenWaves: 5.5
+  LevelCompleted: 4
+  NextLevelUnlock: 5
 --- !u!114 &1011717766
 MonoBehaviour:
   m_ObjectHideFlags: 0
